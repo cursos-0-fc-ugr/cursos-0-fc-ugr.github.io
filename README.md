@@ -35,4 +35,4 @@ Ciencias de la UGR detectadas por docentes y evaluadores.
 
  Si detectan algún error, por favor, utilicen el *issue tracker* del curso correspondiente.
  
-Los contenidos de estos cursos forman parte del FIDO “IMPLEMENTACIÓN DE CURSOS CERO EN LA PLATAFORMA PRADO2 PARA LAS TITULACIONES DE LA FACULTAD DE CIENCIAS” de la Convocatoria de Proyectos de Innovación Docente y Buenas Prácticas del Plan FIDO UGR 2016-2018 (Universidad de Granada)
+Los contenidos de estos cursos forman parte del FIDO “IMPLEMENTACIÓN DE CURSOS CERO EN LA PLATAFORMA PRADO2 PARA LAS TITULACIONES DE LA FACULTAD DE CIENCIAS” de la Convocatoria de Proyectos de Innovación Docente y Buenas Prácticas del Plan FIDO UGR 2016-2018 (Universidad de Granada), coordinado por [Sergio Navas](https://www.ugr.es/local/navas)
