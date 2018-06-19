@@ -1,6 +1,6 @@
 # Cursos 0
 
-## Página principal de los cursos 0 de la Facultad de Ciencias de la Universidad de Granada.
+**Página principal de los cursos 0 de la Facultad de Ciencias de la Universidad de Granada**
 
 
 Este Proyecto de Innovación Docente  tiene como objetivo principal,
