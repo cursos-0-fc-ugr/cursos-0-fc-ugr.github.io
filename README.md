@@ -10,7 +10,7 @@ diferentes Grados de la Facultad de Ciencias de la Universidad de Granada.
 Esta iniciativa responde a la necesidad expresada tanto por estudiantes como por el
 profesorado de primeros cursos, de potenciar unos contenidos docentes implementados
 en un formato Curso Cero en línea, flexible y modular, que actúe como elemento
-facilitador en la adaptación del nivel curricular de los alumnos con formación menos afín
+facilitador en la adaptación del nivel curricular de los estudiantes con formación menos afín
 a dichas materias básicas. Además, la solicitud de este proyecto se sustenta en las
 recomendaciones incluidas por los Evaluadores en los recientes Informes para la
 renovación de la Acreditación de varios Títulos de Grado de la Facultad de Ciencias en
@@ -33,7 +33,7 @@ Ciencias de la Universidad de Granada detectadas por docentes y evaluadores.
 - [Geología](https://cursos-0-fc-ugr.github.io/Geologia)
 - [Matemáticas](https://cursos-0-fc-ugr.github.io/Matematicas)
 
-Los contenidos de química están alojados en el siguiente [moodle](https://fciencias.ugr.es/cursoscero/login/index.php). Si eres alumno de la Universidad de Granada y quieres tener acceso a estos contenidos, escribe al [vicedecano de Calidad e Innovación Docente](https://fciencias.ugr.es/facultad/equipo-de-gobierno) de la Facultad de Ciencias.
+Los contenidos de química están alojados en el siguiente [moodle](https://fciencias.ugr.es/cursoscero/login/index.php). Si eres estudiante de la Universidad de Granada y quieres tener acceso a estos contenidos, escribe al [vicedecano de Calidad e Innovación Docente](https://fciencias.ugr.es/facultad/equipo-de-gobierno) de la Facultad de Ciencias.
 
  Si detectan algún error, por favor, utilicen la plataforma de *informe de errores* del curso correspondiente.
  
