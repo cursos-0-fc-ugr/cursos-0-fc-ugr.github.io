@@ -32,8 +32,7 @@ Ciencias de la Universidad de Granada detectadas por docentes y evaluadores.
 - [Física](https://cursos-0-fc-ugr.github.io/Fisica)
 - [Geología](https://cursos-0-fc-ugr.github.io/Geologia)
 - [Matemáticas](https://cursos-0-fc-ugr.github.io/Matematicas)
-
-Los contenidos de química están alojados en el siguiente [moodle](https://fciencias.ugr.es/cursoscero/login/index.php). Si eres estudiante de la Universidad de Granada y quieres tener acceso a estos contenidos, escribe al [vicedecano de Calidad e Innovación Docente](https://fciencias.ugr.es/facultad/equipo-de-gobierno) de la Facultad de Ciencias.
+- Los contenidos de química están alojados en el siguiente [moodle](https://fciencias.ugr.es/cursoscero/login/index.php). Si eres estudiante de la Universidad de Granada y quieres tener acceso a estos contenidos, escribe al [vicedecano de Calidad e Innovación Docente](https://fciencias.ugr.es/facultad/equipo-de-gobierno) de la Facultad de Ciencias.
 
  Si detectan algún error, por favor, utilicen la plataforma de *informe de errores* del curso correspondiente.
  
