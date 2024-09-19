@@ -23,7 +23,7 @@ de la Facultad.
 
 Este proyecto se solicitó bajo el convencimiento de que su puesta en marcha servirá para
 paliar las deficiencias en la formación de los alumnos de primer curso de la Facultad de
-Ciencias de la UGR detectadas por docentes y evaluadores.
+Ciencias de la Universidad de Granada detectadas por docentes y evaluadores.
 
 Éstos son los cursos disponibles. 
 
@@ -33,6 +33,8 @@ Ciencias de la UGR detectadas por docentes y evaluadores.
 - [Geología](https://cursos-0-fc-ugr.github.io/Geologia)
 - [Matemáticas](https://cursos-0-fc-ugr.github.io/Matematicas)
 
- Si detectan algún error, por favor, utilicen el *issue tracker* del curso correspondiente.
+Los contenidos de química están alojados en el siguiente [moodle](https://fciencias.ugr.es/cursoscero/login/index.php). Si eres alumno de la Universidad de Granada y quieres tener acceso a estos contenidos, escribe al [vicedecano de Calidad e Innovación Docente](https://fciencias.ugr.es/facultad/equipo-de-gobierno) de la Facultad de Ciencias.
+
+ Si detectan algún error, por favor, utilicen la plataforma de *informe de errores* del curso correspondiente.
  
 Los contenidos de estos cursos forman parte del FIDO “IMPLEMENTACIÓN DE CURSOS CERO EN LA PLATAFORMA PRADO2 PARA LAS TITULACIONES DE LA FACULTAD DE CIENCIAS” de la Convocatoria de Proyectos de Innovación Docente y Buenas Prácticas del Plan FIDO UGR 2016-2018 (Universidad de Granada), y del PID “MANTENIMIENTO Y MEJORA DE LOS CURSOS CERO DE LA FACULTAD DE CIENCIAS”, de la Convocatoria de Proyectos de Innovación y Buenas Prácticas Docentes 2018/2020, en la modalidad de proyectos Coordinados
