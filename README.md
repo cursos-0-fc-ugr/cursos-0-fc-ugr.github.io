@@ -1,5 +1,7 @@
 # Cursos 0
 
+![logo-cursos-cero](logo-cursos-cero.svg)
+
 **Página principal de los cursos 0 de la Facultad de Ciencias de la Universidad de Granada**
 
 
