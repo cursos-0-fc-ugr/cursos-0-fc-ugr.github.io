@@ -1,4 +1,3 @@
-# Cursos 0
 
 <img src="logo-cursos-cero.png" width="200" alt="logo cursos cero"/>
 
