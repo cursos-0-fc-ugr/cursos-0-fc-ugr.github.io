@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
 title: [Cursos Cero]
 description: [Cursos Cero de la Facultad de Ciencias de la Universidad de Granada]
+include:
+  - itinerarios.md
 
