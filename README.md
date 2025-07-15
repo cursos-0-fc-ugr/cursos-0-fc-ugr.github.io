@@ -20,7 +20,7 @@ las que, de manera explícita, se instaba a potenciar los Cursos Cero.
 Para el desarrollo de las actividades propuestas se ha conformado un equipo de trabajo
 mixto, multidisciplinar y equilibrado, con representación de profesorado experto en
 docencia de primeros cursos en las materias básicas, bajo la coordinación del Decanato
-de la Facultad. 
+de la facultad. 
 
 Este proyecto se solicitó bajo el convencimiento de que su puesta en marcha servirá para
 paliar las deficiencias en la formación de los alumnos de primer curso de la Facultad de
@@ -34,6 +34,8 @@ Ciencias de la Universidad de Granada detectadas por docentes y evaluadores.
 - [Geología](https://cursos-0-fc-ugr.github.io/Geologia)
 - [Matemáticas](https://cursos-0-fc-ugr.github.io/Matematicas)
 - Los contenidos de química están alojados en el siguiente [moodle](https://fciencias.ugr.es/cursoscero/login/index.php). Si estudias en la Universidad de Granada y quieres tener acceso a estos contenidos, escribe al [vicedecano de Calidad e Innovación Docente](https://fciencias.ugr.es/facultad/equipo-de-gobierno) de la Facultad de Ciencias.
+
+Los itinerarios recomendados según el grado a estudiar en nuestra facultad se pueden encontrar en este [enlace](itinerarios.md).
 
  Si detectan algún error, por favor, utilicen la plataforma de *informe de errores* del curso correspondiente.
  
