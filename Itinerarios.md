@@ -22,6 +22,10 @@ Se recomienda repasar todo el contenido de los cursos de [Física](https://curso
 
 Véase https://grados.ugr.es/geologia/docencia/proyecto-innovacion-docente 
 
+## Grado en Biología 
+
+Se recomienda repasar todo el contenido de los cursos de [Física](https://cursos-0-fc-ugr.github.io/Fisica/), [Matemáticas](https://cursos-0-fc-ugr.github.io/Matematicas/), [Biología](https://cursos-0-fc-ugr.github.io/Biologia/)  y Química.  
+
 ## Grado en Bioquímica 
 
-Se recomienda repasar todo el contenido de los cursos de [Física](https://cursos-0-fc-ugr.github.io/Fisica/), [Matemáticas](https://cursos-0-fc-ugr.github.io/Matematicas/), Biología  y Química.  
+Se recomienda repasar todo el contenido de los cursos de [Física](https://cursos-0-fc-ugr.github.io/Fisica/), [Matemáticas](https://cursos-0-fc-ugr.github.io/Matematicas/), [Biología](https://cursos-0-fc-ugr.github.io/Biologia/)  y Química.  
